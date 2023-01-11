@@ -17,7 +17,7 @@
     "@nestjs/platform-express": "^7.0.9",
     "@nestjs/serve-static": "^2.1.0",
     "class-transformer": "^0.2.3",
-    "class-validator": "^0.12.2",
+    "class-validator": "^0.14.0",
     "open": "^7.0.3",
     "reflect-metadata": "^0.1.13",
     "xlsx-populate": "^1.21.0"
